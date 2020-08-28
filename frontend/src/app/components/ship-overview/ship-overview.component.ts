@@ -12,4 +12,4 @@ export class ShipOverviewComponent implements OnInit {
   ngOnInit() {
   }
 
-}
+} 
